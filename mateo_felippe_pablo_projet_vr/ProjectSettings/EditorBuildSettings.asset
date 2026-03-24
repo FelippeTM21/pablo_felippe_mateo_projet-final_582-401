@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/scenes/OutdoorsScene.unity
+    path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 33cc74f6fdac0b74bb8203564a8692ae,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 388fe10132c27004094b5dd088db16be,
+      type: 2}
